@@ -18,7 +18,7 @@ function AppBar(props) {
             <IoNotificationsOutline />
           </span>
           <span>
-            <img src="https://avatars.dicebear.com/api/initials/deepak%20joy%20jose.svg?b=%23ff8040&r=50&size=32" />
+            <img src="https://avatars.dicebear.com/api/initials/deepak%20joy%20jose.svg?b=%23ff8040&r=50&size=32" alt="Deepak Avatar" />
           </span>
           <span>
             <IoEllipsisVertical />
