@@ -1,17 +1,10 @@
-import { Button } from "./ui/buttons";
+import DashboardPage from "./pages/DashBoardPage";
+import LoginPage from "./pages/LoginPage";
 
 function App() {
   return (
     <>
-      <Button bgColor="orangered" color="white" size="11px" padding="0.25rem 0.8rem">
-        ui button
-      </Button>
-      <Button bgColor="gold" color="#333">
-        Warning
-      </Button>
-      <Button bgColor="green" color="white">
-        Success
-      </Button>
+      <DashboardPage />
     </>
   );
 }
